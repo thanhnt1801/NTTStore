@@ -1,0 +1,70 @@
+import { HttpClient, HttpParams } from '@angular/common/http';
+import { Injectable } from '@angular/core';
+import { Pagination } from '../shared/models/pagination';
+import { Product } from '../shared/models/product';
+import { Brand } from '../shared/models/brand';
+import { Type } from '../shared/models/type';
+import { ShopParams } from '../shared/models/shopParams';
+import { map, of } from 'rxjs';
+
+@Injectable({
+  providedIn: 'root'
+})
+export class ShopService {
+  baseURL = 'https://localhost:5001/api/';
+  products: Product[] = [];
+  types: Type[] = [];
+  brands: Brand[] = [];
+
+  constructor(private http: HttpClient) { }
+
+  getProducts(shopParams: ShopParams) {
+    let params = new HttpParams();
+
+    if(shopParams.brandId > 0)
+    {
+      //params = params.append('brandId', brandId);
+      params = params.set('brandId', shopParams.brandId); 
+    }
+
+    if(shopParams.typeId)
+    {
+      //params = params.append('typeId', typeId);
+      params = params.set('typeId', shopParams.typeId);
+
+    }
+
+    params = params.set('sort', shopParams.sort);
+    params = params.set('pageIndex', shopParams.pageNumber);
+    params = params.set('pageSize', shopParams.pageSize);
+
+    if(shopParams.search) params = params.set('search', shopParams.search);
+
+    return this.http.get<Pagination<Product[]>>(this.baseURL + 'products', {params: params}).pipe(
+      map((response) => {
+        this.products = response.data;
+        return response; // make sure we return the response for our apps
+      })
+    );
+  }
+
+  getProduct(id: number) {
+    const product = this.products.find(x => x.id === id);
+    if(product) return of(product); // make sure we return an observable as product
+    return this.http.get<Product>(this.baseURL + 'products/' + id)
+  }
+
+  getBrands() {
+    if(this.brands.length > 0) return of(this.brands);
+    return this.http.get<Brand[]>(this.baseURL + 'products/brands').pipe(
+      map(brands => this.brands = brands)
+    );
+  }
+
+  getTypes() {
+    if(this.types.length > 0) return of(this.types);
+    return this.http.get<Type[]>(this.baseURL + 'products/types').pipe(
+      map(types => this.types = types)
+    );
+  }
+}

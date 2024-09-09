@@ -1,0 +1,242 @@
+[
+  {
+    "Name": "Acer Aspire 5 A515-58M-79R7",
+    "Description": "Acer Aspire 5 A515-58M-79R7 powered by Intel Core i7-1355U, 16GB DDR4, 512GB SSD, and a 15.6-inch FHD display. Ideal for office tasks and multimedia use.",
+    "Price": 899,
+    "PictureUrl": "images/products/acer-aspire-5-a515-58m-79r7.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Acer Aspire A315-44P-R9W8",
+    "Description": "Acer Aspire A315-44P-R9W8 equipped with AMD Ryzen 7 5825U, 8GB RAM, 256GB SSD, and a 15.6-inch FHD display. Perfect for lightweight office work.",
+    "Price": 649,
+    "PictureUrl": "images/products/acer-aspire-a315-44p-r9w8.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Acer Aspire A514-54-5127",
+    "Description": "Acer Aspire A514-54-5127 powered by Intel Core i5-1135G7, 8GB RAM, 512GB SSD, and a 14-inch FHD display. Lightweight and portable, ideal for on-the-go office tasks.",
+    "Price": 799,
+    "PictureUrl": "images/products/acer-aspire-a514-54-5127.jpg",
+    "ProductTypeId": 4,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Acer Nitro 5 Gaming AN515-57-5669",
+    "Description": "Acer Nitro 5 AN515-57-5669 with Intel Core i5-11400H, 8GB RAM, 512GB SSD, and NVIDIA GeForce GTX 1650. Designed for gaming with a 15.6-inch FHD 144Hz display.",
+    "Price": 999,
+    "PictureUrl": "images/products/acer-nitro-5-an515-57-5669.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Acer Nitro AN515-58-773Y",
+    "Description": "Acer Nitro AN515-58-773Y featuring Intel Core i7-12700H, 16GB DDR4, 512GB SSD, and NVIDIA GeForce RTX 3060. A gaming powerhouse with a 15.6-inch QHD 165Hz display.",
+    "Price": 1499,
+    "PictureUrl": "images/products/acer-nitro-an515-58-773y.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Acer Nitro V ANV15-51-55CA",
+    "Description": "Acer Nitro V ANV15-51-55CA with Intel Core i5-13420H, 8GB RAM, 512GB SSD, and NVIDIA GeForce GTX 1650. A great gaming machine with a 15.6-inch FHD 144Hz display.",
+    "Price": 1099,
+    "PictureUrl": "images/products/acer-nitro-v-anv15-51-55ca.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Asus FA401WV-R9",
+    "Description": "Asus FA401WV-R9 features AMD Ryzen 9 5900HS, 16GB RAM, 1TB SSD, and NVIDIA GeForce RTX 3050. A gaming laptop with a 14-inch FHD display for performance and portability.",
+    "Price": 1299,
+    "PictureUrl": "images/products/asus-fa401wv-r9.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Asus FA507UV-R7",
+    "Description": "Asus FA507UV-R7 comes with AMD Ryzen 7 5800H, 16GB RAM, 512GB SSD, and NVIDIA GeForce RTX 3050. A gaming laptop with a 15.6-inch FHD 144Hz display for smooth gameplay.",
+    "Price": 1199,
+    "PictureUrl": "images/products/asus-fa507uv-r7.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Asus FX507VV-I7",
+    "Description": "Asus FX507VV-I7 powered by Intel Core i7-12700H, 16GB RAM, 1TB SSD, and NVIDIA GeForce RTX 4060. A powerful gaming laptop with a 15.6-inch QHD 165Hz display.",
+    "Price": 1699,
+    "PictureUrl": "images/products/asus-fx507vv-i7.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Asus Vivobook S 14 OLED M5406WA-R9",
+    "Description": "Asus Vivobook S 14 OLED M5406WA-R9 powered by AMD Ryzen 9 5900HX, 16GB RAM, 1TB SSD, and a 14-inch OLED display. Lightweight and stylish, perfect for office and creative tasks.",
+    "Price": 1299,
+    "PictureUrl": "images/products/asus-vivobook-s-14-oled-m5406wa-r9.jpg",
+    "ProductTypeId": 4,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Asus Vivobook S 15 S5507QA-X1E",
+    "Description": "Asus Vivobook S 15 S5507QA-X1E with AMD Ryzen 7 5800H, 16GB RAM, 512GB SSD, and a 15.6-inch FHD display. Ideal for office tasks with a lightweight design.",
+    "Price": 999,
+    "PictureUrl": "images/products/asus-vivobook-s-15-s5507qa.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Asus Vivobook S 16 OLED M5606WA-R9",
+    "Description": "Asus Vivobook S 16 OLED M5606WA-R9 powered by AMD Ryzen 9 5900HX, 16GB RAM, 1TB SSD, and a 16-inch OLED display. Lightweight and powerful for professional and creative work.",
+    "Price": 1499,
+    "PictureUrl": "images/products/asus-vivobook-s-16-oled-m5606wa-r9.jpg",
+    "ProductTypeId": 4,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Dell Inspiron 14 7430 2-in-1",
+    "Description": "Dell Inspiron 14 7430 2-in-1 powered by Intel Core i7-1255U, 16GB RAM, 512GB SSD, and a 14-inch FHD touchscreen display. A versatile convertible laptop for office and creative tasks.",
+    "Price": 1299,
+    "PictureUrl": "images/products/dell-inspiron-14-7430-2-in-1.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Dell Inspiron 15 3530",
+    "Description": "Dell Inspiron 15 3530 with Intel Core i7-1360P, 16GB RAM, 512GB SSD, and a 15.6-inch FHD display. Perfect for everyday office tasks and multimedia.",
+    "Price": 999,
+    "PictureUrl": "images/products/dell-inspiron-15-3530.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Dell Inspiron 16 5640",
+    "Description": "Dell Inspiron 16 5640 powered by Intel Core i7-13700H, 16GB RAM, 1TB SSD, and a 16-inch QHD display. Ideal for office and professional tasks with a larger screen.",
+    "Price": 1499,
+    "PictureUrl": "images/products/dell-inspiron-16-5640.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Dell Latitude 3440 i5",
+    "Description": "Dell Latitude 3440 powered by Intel Core i5-1235U, 16GB RAM, 512GB SSD, and a 14-inch FHD display. A reliable office laptop designed for business and productivity.",
+    "Price": 1099,
+    "PictureUrl": "images/products/dell-latitude-3440-i5.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Dell Latitude 3440 i7",
+    "Description": "Dell Latitude 3440 with Intel Core i7-1255U, 16GB RAM, 512GB SSD, and a 14-inch FHD display. A professional-grade office laptop for business needs.",
+    "Price": 1299,
+    "PictureUrl": "images/products/dell-latitude-3440-i7.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Dell XPS 13 9340 Ultra",
+    "Description": "Dell XPS 13 9340 Ultra featuring Intel Core i7-1365U, 16GB RAM, 1TB SSD, and a 13.4-inch UHD+ display. Ultra-portable and powerful for professionals on the go.",
+    "Price": 1999,
+    "PictureUrl": "images/products/dell-xps-13-9340-ultra.jpg",
+    "ProductTypeId": 4,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "HP Victus 15 FA1139TX",
+    "Description": "HP Victus 15 FA1139TX with Intel Core i5-12450H, 8GB RAM, 512GB SSD, and NVIDIA GeForce GTX 1650. A gaming laptop with a 15.6-inch FHD display.",
+    "Price": 1099,
+    "PictureUrl": "images/products/hp-victus-15-fa1139tx.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "HP Victus 16 R0127TX",
+    "Description": "HP Victus 16 R0127TX featuring Intel Core i7-12700H, 16GB RAM, 512GB SSD, and NVIDIA GeForce RTX 3060. A powerful gaming laptop with a 16.1-inch FHD display.",
+    "Price": 1399,
+    "PictureUrl": "images/products/hp-victus-16-r0127tx.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "HP Victus 16 S0139AX",
+    "Description": "HP Victus 16 S0139AX powered by AMD Ryzen 7 5800H, 16GB RAM, 1TB SSD, and NVIDIA GeForce RTX 3060. Ideal for high-performance gaming with a 16.1-inch FHD display.",
+    "Price": 1499,
+    "PictureUrl": "images/products/hp-victus-16-s0139ax.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "HP Pavilion 14 DV2074TU",
+    "Description": "HP Pavilion 14 DV2074TU with Intel Core i5-1235U, 8GB RAM, 512GB SSD, and a 14-inch FHD display. A versatile laptop for office and everyday use.",
+    "Price": 999,
+    "PictureUrl": "images/products/hp-pavilion-14-dv2074tu.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "HP Pavilion 15 EG2081TU",
+    "Description": "HP Pavilion 15 EG2081TU featuring Intel Core i5-1235U, 8GB RAM, 512GB SSD, and a 15.6-inch FHD display. Ideal for office tasks and multimedia.",
+    "Price": 1099,
+    "PictureUrl": "images/products/hp-pavilion-15-eg2081tu.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "HP Pavilion x360 14 EK2024TU",
+    "Description": "HP Pavilion x360 14 EK2024TU with Intel Core i5-1235U, 8GB RAM, 512GB SSD, and a 14-inch FHD touchscreen display. A convertible laptop suitable for both office work and multimedia.",
+    "Price": 1199,
+    "PictureUrl": "images/products/hp-pavilion-x360-14-ek2024tu.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Lenovo Legion 5 16IRX9",
+    "Description": "Lenovo Legion 5 16IRX9 with Intel Core i7-13700H, 16GB RAM, 512GB SSD, and NVIDIA GeForce RTX 4060. A high-performance gaming laptop with a 16-inch FHD display.",
+    "Price": 1399,
+    "PictureUrl": "images/products/lenovo-legion-5-16irx9.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "Lenovo Legion Pro 7 16IRX9H",
+    "Description": "Lenovo Legion Pro 7 16IRX9H featuring Intel Core i9-13900HX, 32GB RAM, 1TB SSD, and NVIDIA GeForce RTX 4080. An advanced gaming machine with a 16-inch WQXGA display.",
+    "Price": 2499,
+    "PictureUrl": "images/products/lenovo-legion-pro-7-16irx9h.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "Lenovo Legion Slim 5 16AHP9",
+    "Description": "Lenovo Legion Slim 5 16AHP9 with AMD Ryzen 7 5800H, 16GB RAM, 512GB SSD, and NVIDIA GeForce RTX 3060. A slim and portable gaming laptop with a 16-inch FHD display.",
+    "Price": 1299,
+    "PictureUrl": "images/products/lenovo-legion-slim-5-16ahp9.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "Lenovo ThinkPad E14 Ultra",
+    "Description": "Lenovo ThinkPad E14 Ultra with Intel Core i7-1260P, 16GB RAM, 512GB SSD, and a 14-inch FHD display. A professional-grade office laptop with enhanced performance and portability.",
+    "Price": 1199,
+    "PictureUrl": "images/products/lenovo-thinkpad-e14-ultra.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "Lenovo ThinkPad T14s",
+    "Description": "Lenovo ThinkPad T14s featuring Intel Core i7-1185G7, 16GB RAM, 512GB SSD, and a 14-inch FHD display. A lightweight and durable laptop for business and office tasks.",
+    "Price": 1399,
+    "PictureUrl": "images/products/lenovo-thinkpad-t14s.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "Lenovo ThinkPad X13 Ultra",
+    "Description": "Lenovo ThinkPad X13 Ultra with Intel Core i7-1265U, 16GB RAM, 512GB SSD, and a 13.3-inch WUXGA display. A compact and powerful laptop for business professionals.",
+    "Price": 1299,
+    "PictureUrl": "images/products/lenovo-thinkpad-x13-ultra.jpg",
+    "ProductTypeId": 4,
+    "ProductBrandId": 5
+  }
+]

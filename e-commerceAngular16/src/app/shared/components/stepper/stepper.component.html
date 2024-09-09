@@ -1,0 +1,19 @@
+<div class="container">
+    <ul class="nav nav-pills nav-justified">
+        <li class="nav-item" *ngFor="let step of steps; let i = index">
+            <div class="d-grid">
+                <button 
+                    [disabled]="true"  
+                    (click)="onClick(i)"
+                    [class.active]="selectedIndex === i"
+                    class="nav-link py-3 text-uppercase fw-bold">
+                    {{step.label}}
+                </button> 
+                <!-- [disabled]="true"  force user to use backward and forward button-->
+            </div>
+        </li>
+    </ul>
+    <div *ngIf="selected">
+        <ng-container [ngTemplateOutlet]="selected.content"></ng-container>
+    </div>
+</div>

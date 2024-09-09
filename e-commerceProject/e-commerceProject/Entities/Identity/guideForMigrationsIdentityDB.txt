@@ -1,0 +1,6 @@
+dotnet ef migrations add "IdentityInitial" -c AppIdentityDbContext -o Entities/Identity/Migrations
+dotnet ef database update -c AppIdentityDbContext
+
+-c AppIdentityDbContext: specify which data context that we're using
+-o Entities/Identity/Migrations: specify the place that store the output of migrations
+
